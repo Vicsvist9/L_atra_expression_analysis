@@ -1,0 +1,13 @@
+{
+	"n_targets": 854376,
+	"n_bootstraps": 0,
+	"n_processed": 32221995,
+	"n_pseudoaligned": 16202015,
+	"n_unique": 2895683,
+	"p_pseudoaligned": 50.3,
+	"p_unique": 9.0,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Tue Dec 14 13:19:29 2021",
+	"call": "kallisto quant --pseudobam -i L.atra_ant_BL_2trinity.Trinity.index -o A10 -t 4 Pcorr727_ant_1.fq.gz Pcorr727_ant_2.fq.gz"
+}
